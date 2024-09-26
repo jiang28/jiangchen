@@ -14,4 +14,4 @@ My research interests include data mining, spatio-temporal modeling, and AI for 
 
 Background
 ======
-I am completing my PhD in Computer Science at Auburn University, where I am supervised by [Dr. Ku Wei-Shinn](https://www.eng.auburn.edu/~weishinn/). I was originally from China. I completed my B.Ac. at [Hanover College](https://www.hanover.edu/) with a major in Computer Science and a minor in History, and my M.Sc. at [Indiana University Bloomington](https://bloomington.iu.edu/index.html).
+I am completing my PhD in Computer Science at Auburn University, where I am supervised by [Dr. Ku Wei-Shinn](https://www.eng.auburn.edu/~weishinn/). I am originally from China. I completed my B.Ac. at [Hanover College](https://www.hanover.edu/) with a major in Computer Science and a minor in History, and my M.Sc. at [Indiana University Bloomington](https://bloomington.iu.edu/index.html).
