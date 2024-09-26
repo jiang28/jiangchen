@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Chen Jiang, Wenlu Wang, Jingjing Li, Naiqing Pan, Wei-Shinn Ku'
-date: 2010-10-01
+date: 2024
 venue: 'Conference 1'
 slidesurl: 'https://ceur-ws.org/Vol-3651/DARLI-AP-4.pdf'
 paperurl: 'https://ceur-ws.org/Vol-3651/DARLI-AP-4.pdf'

@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "A Multimodal Geo Dataset for High-resolution Precipitation Forecasting"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Chen Jiang, Wenlu Wang, Naiqing Pan, Wei-Shinn Ku'
+date: 2023
+venue: 'Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589132.3625645'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Accurate short-term precipitation prediction at a high spatial resolution is crucial for effective urban water management, flooding warning, and mitigation. However, conventional numerical weather models usually face the challenge of systematic errors and spatiotemporal biases due to an inadequate understanding of many processes and unrealistic parameterizations. In recent years, deep learning techniques have gained popularity as a tool in precipitation forecasting and risk pre-warning. To support deep learning for precipitation forecasting and flooding warning, this paper introduces a large-scale multimodal Geo dataset. This dataset incorporates spatially connected features and real-world climate data, enabling the prediction of extreme precipitations. The dataset comprises Multi-Radar/Multi-Sensor System (MRMS), High-Resolution Rapid Refresh (HRRR), Geostationary Satellite Server (GOES) data, and …
