@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Auburn University, 2024 (expected)
+* M.S. in Computer Science, Indiana University Bloomington, 2014
+* B.A. in Computer Science, Hanover College, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-Present: Research and Teaching Assistant 
+  * Auburn University
+  * Duties includes: Conduct research in spatial-temporal deep learning. Assist in course development.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015-2016: Software Developer
+  * Infoplus Ecommerce
+  * Duties included: Developed eCommerce software
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2013-2014: Associate Instructor
+  * Indiana University Bloomington
+  * Duties included: Led undergraduate courses in computer science
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 2013-2014: Student Tutor
+  * Hanover College
+  * Duties included: Assisted students in mathematics and computer science
+
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * Molecular Biology Reports, 2024
+  * ICPMS: International Conference on Physics, Mathematics and Statistics, 2024
+  * IEEE Internet of Things Journal, 2023
+  * JISE: Journal of Information Science and Engineering, 2022.
+* External Reviewer
+  * ICDM, MDM, CIC, VLDB, CIKM, AAAI, GLOBECOM.
