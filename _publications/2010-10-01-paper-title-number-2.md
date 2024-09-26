@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Deep Spatio-Temporal Encoding: Achieving Higher Accuracy by Aligning with External Real-World Data."
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Chen Jiang, Wenlu Wang, Jingjing Li, Naiqing Pan, Wei-Shinn Ku'
 date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'Conference 1'
+slidesurl: 'https://ceur-ws.org/Vol-3651/DARLI-AP-4.pdf'
+paperurl: 'https://ceur-ws.org/Vol-3651/DARLI-AP-4.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Spatio-temporal deep learning has drawn a lot of attention since many downstream real-world applications can benefit from accurate predictions. For example, accurate prediction of heavy rainfall events is essential for effective urban water usage, flooding warning, and mitigation. In this paper, we propose a strategy to leverage spatially connected real-world features to enhance prediction accuracy. Specifically, we leverage spatially connected real-world climate data to predict heavy rainfall risks in a broad range in our case study. We experimentally ascertain that our Trans-Graph Convolutional Network (TGCN) accurately predicts heavy rainfall risks and real estate trends, demonstrating the advantage of incorporating external spatially-connected real-world data to improve model performance, and it shows that this proposed study has a significant potential to enhance spatio-temporal prediction accuracy, aiding in efficient urban water usage, flooding risk warning, and fair housing in real estate.
