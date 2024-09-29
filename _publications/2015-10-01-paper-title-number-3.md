@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Chen Jiang, Wenlu Wang, Naiqing Pan, Wei-Shinn Ku'
-date: 2023
+date: 2023/08/12
 venue: 'Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589132.3625645'
 ---
