@@ -2,9 +2,9 @@
 title: "Applying deep neural networks and remote sensing to predict yields of major crops in the United States"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-7
 excerpt: 'Pan Naiqing, Jiang Chen, Yeddula Sai, Pan Shufen, Ku Wei-Shinn, Tian Hanqin
-date: 2021-08-04
+date: 2021/08/04
 venue: 'AGU Fall Meeting Abstracts'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2021AGUFMGC25D0690P/abstract'
 ---
