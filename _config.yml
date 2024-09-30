@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Chen.jpg"
   name             : "Chen Jiang"
-  pronouns         : "he/him"  
+  pronouns         : # example: "she/her"  
   bio              : "Ph.D candidate"
   location         : "Earth"
   employer         : "Auburn University"
