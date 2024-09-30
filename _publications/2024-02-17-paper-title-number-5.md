@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Bo Hui; Chen Jiang; Pavani Ankireddy; Wenlu Wang; Wei-Shinn Ku'
-date: 2021-12-14
+date: 2021/12/14
 venue: '2021 17th International Conference on Mobility, Sensing and Networking (MSN)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9751591'
 ---
