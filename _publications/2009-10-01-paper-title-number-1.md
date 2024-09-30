@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Chen Jiang, Sai Deepthi Yeddula, Wei‑Shinn Ku'
-date: 2024-08-12
+date: 2024/08/12
 venue: 'Modeling Earth Systems and Environment'
 paperurl: 'https://link.springer.com/article/10.1007/s40808-024-02090-4'
 ---
