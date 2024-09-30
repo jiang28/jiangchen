@@ -2,7 +2,7 @@
 title: "Indoor Navigation for Users with Mobility Aids Using Smartphones and Neighborhood Networks"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'Bo Hui; Chen Jiang; Pavani Ankireddy; Wenlu Wang; Wei-Shinn Ku'
 date: 2021/12/14
 venue: '2021 17th International Conference on Mobility, Sensing and Networking (MSN)'
