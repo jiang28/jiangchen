@@ -1,7 +1,7 @@
 ---
 title: "Deep Spatio-Temporal Encoding: Achieving Higher Accuracy by Aligning with External Real-World Data."
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Chen Jiang, Wenlu Wang, Jingjing Li, Naiqing Pan, Wei-Shinn Ku'
 date: 2024/03/14
