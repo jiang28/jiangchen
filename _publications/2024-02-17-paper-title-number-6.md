@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-6
 excerpt: 'Chen Jiang, Jingjing Li, Wenlu Wang, Wei-Shinn Ku'
-date: 2021/11/02
+date: "2021/11/02"
 venue: 'SIGSPATIAL '21: Proceedings of the 29th International Conference on Advances in Geographic Information Systems'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3474717.3484254'
 ---
