@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Sai Deepthi Yeddula, Chen Jiang, Bo Hui, Wei-Shinn Ku'
-date: 2024-02-17
+date: 2024/02/17
 venue: 'Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589132.3625599'
 ---
