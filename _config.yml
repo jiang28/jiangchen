@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Personal website of Chen Jiang"
 url                      : https://jiang28.github.io/jiangchen/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/jiang28"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "Chen.jpg"
   name             : "Chen Jiang"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D candidate"
-  location         : "Earth"
+  pronouns         : "He/Him"    
+  bio              : "Ph.D candidate, Auburn University"
+  location         : "Auburn, AL, USA"
   employer         : "Auburn University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "czj0042@auburn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
