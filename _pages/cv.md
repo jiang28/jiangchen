@@ -35,12 +35,41 @@ Work experience
   * Duties included: Assisted students in mathematics and computer science
 
   
-Service
+
+Teaching experience
 ======
-* Reviewer
-  * Molecular Biology Reports, 2024
-  * ICPMS: International Conference on Physics, Mathematics and Statistics, 2024
-  * IEEE Internet of Things Journal, 2023
-  * JISE: Journal of Information Science and Engineering, 2022.
-* External Reviewer
-  * ICDM, MDM, CIC, VLDB, CIKM, AAAI, GLOBECOM.
+* Teaching Assistant, Auburn University (2018 - Present)
+  * Courses Assisted:
+    * COMP-1200: Introduction to Programming with MATLAB
+    * CPSC-1213/1220: Introduction to Computer Science I/II
+    * CPSC-1230: Data Structures
+    * CPSC-2710: Software Construction Fundamentals
+    * CPSC-3223: Programming Languages Translation
+    * CPSC-3240: Discrete Structures
+    * CPSC-5123/5133: Database I/II
+    * CPSC-5203: Web Development I
+    * CPSC-5343: Mobile Application Development II
+  * Courses Taught:
+    * COMP-1200: Introduction to Programming with MATLAB Lab Session
+
+* Associate Instructor, Indiana University (2012 - 2013)
+  * Courses Assisted:
+    * CSCI-C 241: Discrete Structures for Computer Science
+  * Courses Taught:
+    * CSCI-C 241: Discrete Structures for Computer Science Lab Session
+
+* Tutor, Gladish Learning Center, Hanover College (2008 - 2011)
+  * Courses Assisted:
+    * CS 112: Computer Science Principles
+    * CS 220: Fundamentals of Computer Science
+    * CS 223: Data Structures
+    * CS 315: Algorithmic Analysis
+
+Guest Lectures
+------
+1. "Applying Deep Neural Networks to Predict Crop Yields" (Apr 2022), Texas A&M University-Corpus Christi
+2. "Applications of Deep Learning in Crop Yield Prediction" (Apr 2021), Texas A&M University-Corpus Christi
+
+Pedagogical Training
+------
+* University Science Teaching, Indiana University Bloomington
