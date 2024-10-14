@@ -69,7 +69,7 @@ Guest Lectures
 ------
 1. "Applying Deep Neural Networks to Predict Crop Yields" (Apr 2022), Texas A&M University-Corpus Christi
 2. "Applications of Deep Learning in Crop Yield Prediction" (Apr 2021), Texas A&M University-Corpus Christi
-3. Upcoming Guest Lectures: "Spatial-temporal Modeling Using Deep Learning Approaches" (Scheduled Nov 2024), Gustavus Adolphus College
+3. Upcoming Guest Lecture: "Spatial-temporal Modeling Using Deep Learning Approaches" (Scheduled Nov 2024), Gustavus Adolphus College
 
 Pedagogical Training
 ------
