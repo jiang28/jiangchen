@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Auburn University, 2024 (expected)
+* Ph.D in Computer Science, Auburn University, June 2025 (expected)
 * M.S. in Computer Science, Indiana University Bloomington, 2014
 * B.A. in Computer Science, Hanover College, 2011
 
@@ -19,7 +19,7 @@ Work experience
 ======
 * 2018-Present: Research and Teaching Assistant 
   * Auburn University
-  * Duties includes: Conduct research in spatial-temporal deep learning. Assist in course development.
+  * Duties include conducting research in spatial-temporal deep learning. Assist in course development.
 
 
 * 2015-2016: Software Developer
@@ -32,7 +32,7 @@ Work experience
   
 * 2013-2014: Student Tutor
   * Hanover College
-  * Duties included: Assisted students in mathematics and computer science
+  * Duties included: Assisting students in mathematics and computer science
 
   
 
@@ -69,7 +69,7 @@ Guest Lectures
 ------
 1. "Applying Deep Neural Networks to Predict Crop Yields" (Apr 2022), Texas A&M University-Corpus Christi
 2. "Applications of Deep Learning in Crop Yield Prediction" (Apr 2021), Texas A&M University-Corpus Christi
-3. Upcoming Guest Lecture: "Spatial-temporal Modeling Using Deep Learning Approaches" (Scheduled Nov 2024), Gustavus Adolphus College
+3. "Spatial-temporal Modeling Using Deep Learning Approaches" (Nov 2024), Gustavus Adolphus College
 
 Pedagogical Training
 ------
