@@ -10,7 +10,7 @@ Hi! I am Chen Jiang. I completed my Ph.D. in Computer Science at [Auburn Univers
 
 Research Interests
 ======
-My research interests include data mining, spatio-temporal modeling, and AI for Science (AI4Science). I focus on leveraging artificial intelligence and big data analytics to address challenges in economic forecasting, agricultural yield prediction, and climate modeling.
+My current research is centered around applying the latest AI approaches to address the research needs in different areas. Some of my past works have been successfully implemented to predict global leaf area index, national crop yields, highway traffic, real estate market, and heavy rainfall risk. Another line of research focuses on publishing datasets adapted to specific real-life challenges in the abovementioned areas and developing effective benchmarking pipelines aligned with the released datasets. My vision as a computer scientist is to bridge the capabilities of fast-moving AI techniques and the instant needs in various academic, research, or industry scenarios. 
 
 Background
 ======
