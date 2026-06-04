@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Auburn University, June 2025 (expected)
+* Ph.D in Computer Science, Auburn University, Aug 2025 
 * M.S. in Computer Science, Indiana University Bloomington, 2014
 * B.A. in Computer Science, Hanover College, 2011
 
 Work experience
 ======
-* 2018-Present: Research and Teaching Assistant 
+* 2018-2025: Research and Teaching Assistant 
   * Auburn University
   * Duties include conducting research in spatial-temporal deep learning. Assist in course development.
 
