@@ -21,7 +21,7 @@ repository               : "https://github.com/jiang28"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Chen.jpg"
+  avatar           : "4.png"
   name             : "Chen Jiang"
   pronouns         : "He/Him"    
   bio              : "Ph.D. in Computer Science"
